@@ -1,18 +1,18 @@
-## API Conventions
+# API Conventions
 
 All teams within Eneco Retail use the same API Conventions
 
-# Why?
+## Why?
 - Different teams should be able to work independently
 - This adds to the flexibility and agility of the organisation
 
-# What?
+## What?
 - Within Eneco we are going to work with clear API conventions
 - We will define and share templates and examples here
 
-# How?
+## How?
 - These conventions will be shared during the bigroom sessions
 - The conventions and templates are accessible to all
 
-# WIKI
+## WIKI
 Check out the wiki at: https://github.com/Eneco/api-conventions/wiki
