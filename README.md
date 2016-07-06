@@ -14,5 +14,6 @@ All teams within Eneco Retail use the same API Conventions
 - These conventions will be shared during the bigroom sessions
 - The conventions and templates are accessible to all
 
-## WIKI
-Check out the wiki at: https://github.com/Eneco/api-conventions/wiki
+## Content
+[Introduction](https://github.com/Eneco/api-conventions/blob/master/Introduction.md)
+[Service Design Principles](https://github.com/Eneco/api-conventions/blob/master/ServiceDesignPrinciples.md)
