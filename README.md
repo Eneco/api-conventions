@@ -15,5 +15,5 @@ All teams within Eneco Retail use the same API Conventions
 - The conventions and templates are accessible to all
 
 ## Content
-[Introduction](https://github.com/Eneco/api-conventions/blob/master/Introduction.md)
-[Service Design Principles](https://github.com/Eneco/api-conventions/blob/master/ServiceDesignPrinciples.md)
+ - [Introduction](https://github.com/Eneco/api-conventions/blob/master/Introduction.md)
+ - [Service Design Principles](https://github.com/Eneco/api-conventions/blob/master/ServiceDesignPrinciples.md)
