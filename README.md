@@ -23,3 +23,4 @@ All teams within Eneco Retail use the same API Conventions
  - [Paginated Service Response](https://github.com/Eneco/api-conventions/blob/master/PaginatedServiceResponse.md)
  - [Authentication](https://github.com/Eneco/api-conventions/blob/master/Authentication.md)
  - [Client SDK](https://github.com/Eneco/api-conventions/blob/master/ClientSDK.md)
+ - [Templates](https://github.com/Eneco/api-conventions/blob/master/Templates.md)
